@@ -9,12 +9,6 @@
 </p>
 <br>
     
-<p float="left" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillDev12&theme=tokyo-night">
-</p>
-
-<br><br>
-    
  <div align="center">
 
   <h4 align="center">Current Languages</h4>
