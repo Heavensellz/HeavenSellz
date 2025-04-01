@@ -1,4 +1,6 @@
-<img src="https://discord.c99.nl/widget/theme-4/608356252816506884.png"/>
+<p align="center"> 
+    <img src="https://discord.c99.nl/widget/theme-4/608356252816506884.png"/>
+  </p>
 
 <br>
 
