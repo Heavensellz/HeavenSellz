@@ -7,11 +7,11 @@
 </p>
 
 <p float="left" align="center">
+    
+---
 
   <a href="https://github.com/Heavensellz">
     <img src="https://img.shields.io/github/followers/Heavensellz?style=for-the-badge&logo=github">
-  <a href="https://github.com/Heavensellz/HeavenSellz">
-    <img src="https://img.shields.io/github/watchers/Heavensellz/HeavenSellz?style=for-the-badge&logo=git">
 
 </p>
     
