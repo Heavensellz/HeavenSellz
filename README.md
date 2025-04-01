@@ -7,17 +7,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+love+programming!" alt="Typing SVG" /></a>
 </p>
-
-<p float="left" align="center">
-
-  <a href="https://github.com/WillDev12">
-    <img src="https://img.shields.io/github/followers/WillDev12?style=for-the-badge&logo=github">
-  <a href="https://github.com/WillDev12">
-    <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge&logo=git">
-  <a href="https://github.com/WillDev12/WillDev12">
-    <img src="https://img.shields.io/github/watchers/WillDev12/WillDev12?style=for-the-badge&logo=git">
-
-</p><br><br>
+<br><br>
 
 <p float="left" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WillDev12&theme=tokyonight">
