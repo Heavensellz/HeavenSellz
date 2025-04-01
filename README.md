@@ -1,4 +1,4 @@
-<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
+<img src="https://github.com/Heavensellz/HeavenSellz/blob/main/Bottum_up.svg" width="100%">
 
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
 <h4 align="center">Let's cook up some good stuff in VSCode to start 2025!</h4>
