@@ -11,7 +11,7 @@
   <a href="https://github.com/WillDev12">
     <img src="https://img.shields.io/github/followers/Heavensellz?style=for-the-badge&logo=github">
   <a href="https://github.com/WillDev12/WillDev12">
-    <img src="https://img.shields.io/github/watchers/Heavensellz/Heavensellz?style=for-the-badge&logo=git">
+    <img src="https://img.shields.io/github/watchers/Heavensellz/HeavenSellz?style=for-the-badge&logo=git">
 
 </p>
     
